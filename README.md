@@ -34,6 +34,6 @@ I am always open to part-time roles, freelance projects, or collaborating on inn
 
 * **💼 LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
 * **🌐 Hosted Apps:** [Explore my Live Streamlit Portfolio](https://fayed-factory-automation-app.streamlit.app/)
-* **📧 Email:** [fayed038@gmail.com](mailto:fayed038@gmail.com)
+- **📧 Email:** [hufayed19@gmail.com](mailto:hufayed19@gmail.com)
 
 ⚡ *"Automating the mundane so you can focus on the strategic."*

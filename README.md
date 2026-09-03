@@ -33,7 +33,7 @@ I bridge the gap between complex business workflows and intelligent software sol
 I am always open to part-time roles, freelance projects, or collaborating on innovative automation tools. If your team or business is losing valuable hours to repetitive operational tasks, let's connect and build a solution.
 
 * **💼 LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-* **🌐 Hosted Apps:** [Explore my Live Streamlit Portfolio](https://fayed-factory-automation-app.streamlit.app/)
+* **🌐 Portfolio:** [Explore my Live Portfolio](https://fayed038.github.io/portfolio/)
 - **📧 Email:** [hufayed19@gmail.com](mailto:hufayed19@gmail.com)
 
 ⚡ *"Automating the mundane so you can focus on the strategic."*

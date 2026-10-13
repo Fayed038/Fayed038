@@ -1,39 +1,33 @@
-# Hi there, I'm Md Hammad Ullah Fayed! 👋
+### Hi there, I'm Md Hammad Ullah Fayed! 👋
 
-### 🚀 AI Automation Specialist & CSE Student
-I bridge the gap between complex business workflows and intelligent software solutions. By combining a foundation in Computer Science & Engineering with advanced AI-assisted development techniques, I rapidly build and deploy production-grade automation tools and interactive data dashboards.
+🚀 **Full-Stack Software Engineer & Automation Specialist**
 
----
-
-## 🛠️ What I Do
-* **AI-Assisted Development:** Leveraging cutting-edge LLMs (Claude, DeepSeek) as force multipliers to architect, debug, and ship clean Python code in record time.
-* **Workflow Automation:** Turning hours of manual data entry, processing, and reporting into single-click, automated pipelines.
-* **Interactive Dashboards:** Transforming raw, complex operational data into intuitive, real-time Streamlit web applications for businesses.
+I design, build, and deploy production software end-to-end — from company websites and internal systems to data automation pipelines and dashboards. Currently a CSE undergrad, working across the full stack: frontend, backend, deployment, and the automation layer that ties it all together.
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🛠️ What I Do
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Core Programming** | `Python` `SQL` |
+- **Full-Stack Development:** Built and deployed GLTC's official company website end-to-end (live, paid domain), and independently develop and maintain the company's inventory management system.
+- **Workflow Automation:** Turn hours of manual data entry, processing, and reporting into single-click, automated pipelines.
+- **Interactive Dashboards:** Transform raw operational data into real-time Streamlit web applications for business use.
+- **AI-Assisted Development:** Use LLMs (Claude, DeepSeek) as force multipliers to architect, debug, and ship clean code faster.
+
+---
+
+### 💼 Tech Stack & Tools
+
+| Category | Technologies |
+|---|---|
+| **Core Programming** | `Python` `SQL` `JavaScript` |
+| **Full-Stack / Web** | *(add your actual stack here — e.g. React, Node.js, Express, etc.)* |
 | **Frameworks & UI** | `Streamlit` |
 | **AI & Prompting** | `Claude` `DeepSeek` `LLM Workflow Design` |
 | **Version Control & Dev** | `Git` `GitHub` `VS Code` |
 
 ---
 
-## 📊 Operational Impact Highlights
-* **Data Pipeline Automation:** Re-engineered a daily reporting pipeline, successfully cutting a **3-hour manual process down to just 1 minute**.
-* **Factory Tracking Web Apps:** Built and launched custom factory production tracking applications from scratch, providing stakeholders with instant visibility into floor operations.
+### 📊 Operational Impact Highlights
 
----
-
-## 🤝 Let's Connect & Collaborate!
-I am always open to part-time roles, freelance projects, or collaborating on innovative automation tools. If your team or business is losing valuable hours to repetitive operational tasks, let's connect and build a solution.
-
-* **💼 LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-* **🌐 Portfolio:** [Explore my Live Portfolio](https://fayed038.github.io/portfolio/)
-- **📧 Email:** [hufayed19@gmail.com](mailto:hufayed19@gmail.com)
-
-⚡ *"Automating the mundane so you can focus on the strategic."*
+- **Full-Stack Ownership:** Independently developed and deployed GLTC's official company website (live on paid domain) and its inventory management system — both built solo, end-to-end.
+- **Data Pipeline Automation:** Re-engineered a daily reporting pipeline, cutting a 3-hour manual process down to minutes.

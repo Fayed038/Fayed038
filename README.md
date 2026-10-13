@@ -20,7 +20,7 @@ I design, build, and deploy production software end-to-end — from company webs
 | Category | Technologies |
 |---|---|
 | **Core Programming** | `Python` `SQL` `JavaScript` |
-| **Full-Stack / Web** | *(tell me what you used — React? Node? PHP?)* |
+| **Full-Stack / Web** | `React` `Vite` `Node.js` `PM2` |
 | **Frameworks & UI** | `Streamlit` |
 | **AI & Prompting** | `Claude` `DeepSeek` `LLM Workflow Design` |
 | **Version Control & Dev** | `Git` `GitHub` `VS Code` |
